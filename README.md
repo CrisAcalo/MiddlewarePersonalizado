@@ -13,7 +13,7 @@ Este proyecto utiliza **Laravel 12.x**.
 
 1. **Clona el repositorio:**
    ```sh
-   git clone <URL-del-repositorio>
+   git clone https://github.com/CrisAcalo/MiddlewarePersonalizado.git
    cd MiddewarePersonalizado
    ```
 
