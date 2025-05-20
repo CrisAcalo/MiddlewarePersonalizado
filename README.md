@@ -66,21 +66,3 @@ Este proyecto utiliza **Laravel 12.x**.
    ```
 
 Accede a [http://localhost:8000](http://localhost:8000) en tu navegador.
-
-## Comandos útiles
-
-- Ejecutar pruebas:
-  ```sh
-  php artisan test
-  ```
-- Limpiar cachés:
-  ```sh
-  php artisan optimize:clear
-  ```
-
-## Notas
-
-- El archivo `.env` **no** debe subirse al repositorio.
-- Para más información, consulta la [documentación oficial de Laravel](https://laravel.com/docs/12.x).
-
----
